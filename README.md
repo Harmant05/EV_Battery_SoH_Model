@@ -23,7 +23,7 @@ This project turns the supplied EV battery research notebook and two CSV dataset
 
    `streamlit run app.py`
 
-6. Open the local URL printed in the terminal (usually http://localhost:8501).
+6. Open the local URL printed in the terminal (usually http://localhost:8501) or (http://10.101.58.94:8501/).
 
 The two CSV files are bundled in the `data` folder, so no Google Drive mount is needed.
 

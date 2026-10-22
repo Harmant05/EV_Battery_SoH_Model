@@ -1,5 +1,7 @@
 # EV Battery SoH Working Model
-#### Network-URL: (http://10.101.58.94:8501/)
+#### Network-Model-URL: (http://10.101.58.94:8501/)
+
+### Research-Paper-Published: (https://ijsci.com/paper-details.php/79447773/machine-learning-based-state-of-health-estimation-for-electric-car-batteries-using-real-world-driving-behaviour)
 
 This project turns the supplied EV battery research notebook and two CSV datasets into an interactive Streamlit dashboard.
 

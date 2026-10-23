@@ -1,8 +1,7 @@
 # EV Battery SoH Working Model
+**Published Research Paper:** [Machine Learning-Based State-of-Health Estimation for Electric Car Batteries Using Real-World Driving Behaviour](https://ijsci.com/paper-details.php/79447773/machine-learning-based-state-of-health-estimation-for-electric-car-batteries-using-real-world-driving-behaviour)
 
 An interactive Streamlit dashboard for electric-vehicle battery State of Health (SoH) estimation using Python, machine learning, and two CSV datasets.
-
-**Research Paper:** [Machine Learning-Based State-of-Health Estimation for Electric Car Batteries Using Real-World Driving Behaviour](https://ijsci.com/paper-details.php/79447773/machine-learning-based-state-of-health-estimation-for-electric-car-batteries-using-real-world-driving-behaviour)
 
 ## Features
 
